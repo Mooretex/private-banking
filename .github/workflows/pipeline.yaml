@@ -2,3 +2,5 @@
 on: push
 jobs:
   pytest: ""
+  snyk: ""
+  stackhawk/hawkscan: ""
