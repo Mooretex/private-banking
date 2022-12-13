@@ -1,1 +1,4 @@
-pytest
+---
+on: push
+jobs:
+  pytest: ""
