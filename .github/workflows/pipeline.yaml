@@ -4,3 +4,5 @@ jobs:
   pytest: ""
   snyk: ""
   stackhawk/hawkscan: ""
+  selenium: ""
+  flake8: ""
